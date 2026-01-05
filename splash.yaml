@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#F4F5F7"
+  color_dark: "#F4F5F7"
+  image: assets/logos/solution_big.png
+  image_dark: assets/logos/solution_big.png
+
+  android_12:
+    color: "#F4F5F7"
+    color_dark: "#F4F5F7"
+    image: assets/logos/solution_big.png
+    image_dark: assets/logos/solution_big.png
+
+  android_gravity: center
+  ios_content_mode: contain
+  web: false
